@@ -1,4 +1,3 @@
-import { Separator } from "@radix-ui/react-separator";
 import { LinkIcon } from "../LinkIcon";
 import { Container } from "./Container";
 
