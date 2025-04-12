@@ -7,7 +7,7 @@ const cards = [
     href: "mailto:violitaandriana2003@gmail.com",
     target: "_blank",
     i: "bx bxs-envelope",
-    text: "violitaandriana2003@gmail.com",
+    text: "violitaand1306@gmail.com",
   },
   {
     href: "https://github.com/violitaandriana",
