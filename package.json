@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d distgi"
   },
   "dependencies": {
     "@radix-ui/react-separator": "^1.1.3",
