@@ -1,7 +1,6 @@
 {
   "name": "portfolio-web-v2",
   "homepage": "https://violitaandriana.github.io/portfolio-web-v2/",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d distgi"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@radix-ui/react-separator": "^1.1.3",
