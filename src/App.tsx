@@ -1,11 +1,20 @@
-import { Button } from "@/components/ui/button"
+import Navbar from "./components/layout/Navbar";
+import AboutSection from "./components/sections/AboutSection";
+import ExperienceSection from "./components/sections/SkillSection";
+import ProjectSection from "./components/sections/ProjectSection";
+import Footer from "./components/layout/Footer";
 
+// TODO: responsive
 function App() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-svh">
-      <Button>Click me</Button>
-    </div>
-  )
+    <>
+      <Navbar />
+      <AboutSection />
+      <ExperienceSection />
+      <ProjectSection />
+      <Footer />
+    </>
+  );
 }
 
-export default App
+export default App;
